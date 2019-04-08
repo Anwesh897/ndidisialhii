@@ -1,0 +1,9 @@
+.bg{
+    background-image: url("https://images5.alphacoders.com/683/683789.jpg");
+    height:800px;
+    width:800px;
+}
+.canvas{
+    border:1px solid #d3d3;
+    background-color:lightseagreen;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ajax.json",
+  "version": "1.0.0",
+  "description": "\"Do not go gentle into that good night\"",
+  "main": "access.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
