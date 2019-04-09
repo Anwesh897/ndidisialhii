@@ -1,0 +1,6 @@
+first
+second
+third
+undefined
+/usr/local/bin/node,/Users/akashkorram/Documents/ndidisialhii/NODE/data.js
+/Users/akashkorram/Documents/ndidisialhii/NODE/data.js
